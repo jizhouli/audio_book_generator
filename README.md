@@ -9,7 +9,7 @@ pip install -r requirements.txt
 #### 添加脚本到可视化平台
 
 ```
-python manage.py addscript ../audio_book/audio_book_adaptor.py --group 
+python manage.py addscript ../audio_book/audio_book_adaptor.py --group 小工具
 ```
 
 #### 本地执行有声书转换
